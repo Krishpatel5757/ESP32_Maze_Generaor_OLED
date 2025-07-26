@@ -75,6 +75,6 @@ The maze is generated using the **Hunt and Kill algorithm**, which:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
