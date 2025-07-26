@@ -69,7 +69,7 @@ The maze is generated using the **Hunt and Kill algorithm**, which:
 
 ## Preview
 
-![Maze Generator OLED](images/maze.jpg)
+![Maze Generator OLED](Image/Game.jpg)
 
 > The maze grid , with the player block visibly navigating from start to finish.
 
