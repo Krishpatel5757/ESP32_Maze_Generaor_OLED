@@ -17,7 +17,7 @@ After successfully reaching the goal, a new maze is automatically generated, cre
 
 ---
 
-## 🛠 Hardware Used
+## Hardware Used
 
 | Component         | Details                          |
 |------------------|----------------------------------|
